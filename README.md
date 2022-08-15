@@ -2,9 +2,9 @@
 
 Nesta tarefa você deverá expandir o seu site pessoal. Você pode se basear nos sites de:
 
-https://www.inf.ufpr.br/murilo/
-https://www.cs.dartmouth.edu/~thc/
-https://www.cs.cornell.edu/home/kleinber/
+* https://www.inf.ufpr.br/murilo/
+* https://www.cs.dartmouth.edu/~thc/
+* https://www.cs.cornell.edu/home/kleinber/
 
 Escolha as melhores tags HTML possíveis para cada requisito abaixo. Dica: Você pode verificar o código fonte das páginas acima.
 
